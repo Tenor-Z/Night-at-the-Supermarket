@@ -1,5 +1,5 @@
 # Night-at-the-Supermarket
-One of the very first Python "games" I made in high school.\n
+One of the very first Python "games" I made in high school.
 It sucks shit from a straw, but there's a first for everything.
 
 # What do you do?
